@@ -17,3 +17,11 @@ I'm a full stack software engineer in training with a strong background in marke
 <br />
 
 #
+
+### 📊 Stats
+
+![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=anne-alt&count_private=true)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
