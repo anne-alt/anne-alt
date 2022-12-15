@@ -2,7 +2,7 @@
 
 **`Full-stack Software Engineer `**
 
-I'm a full stack software engineer in training with a strong background in marketing, communications and project management. These allow me to flexibly work in any environment while adding value by even deeper understanding of client needs and ensuring efficient usability of any projects I participate in. 
+I'm a full stack software engineer in training with a strong background in marketing, communications and project management. These allow me to flexibly work in any environment while adding value through a deeper understanding of client needs and ensuring efficient usability of any projects I participate in. 
 
 ### 🧰 Languages and Tools
 
@@ -20,7 +20,7 @@ I'm a full stack software engineer in training with a strong background in marke
 
 ### 📊 Stats
 
-![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=anne-alt&count_private=true)
+![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=anne-alt&count_private=trueshow_icons=true&theme=dark)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
