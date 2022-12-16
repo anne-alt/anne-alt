@@ -2,7 +2,7 @@
 
 **`Full-stack Software Engineer `**
 
-I'm a full stack software engineer in training with a strong background in marketing, communications and project management. These allow me to flexibly work in any environment while adding value through a deeper understanding of client needs and ensuring efficient usability of any projects I participate in. 
+I'm a full stack software engineer with a strong background in marketing, communications and project management. These allow me to flexibly work in any environment while adding value through a deeper understanding of client needs and ensuring efficient usability of any projects I participate in. 
 
 ### 🧰 Languages and Tools
 
