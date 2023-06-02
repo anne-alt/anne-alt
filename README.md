@@ -21,8 +21,8 @@ I'm a full stack software engineer with a strong background in marketing, commun
 #
 
 ### 📊 Stats
-<!-- 
-![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=anne-alt&count_private=trueshow_icons=true&theme=dark&rank_icon=github) -->
+
+![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=anne-alt&count_private=trueshow_icons=true&theme=dark&rank_icon=github)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
